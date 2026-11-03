@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>HQ Agents</title>
+    <link>https://raw.githubusercontent.com/hectormonte1/hq-agents-releases/main/appcast.xml</link>
+    <language>es</language>
+    <item>
+      <title>HQ Agents 1.1.0</title>
+      <pubDate>Tue, 03 Nov 2026 22:21:35 +0000</pubDate>
+      <sparkle:version>110</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>HQ Agents 1.1.0</p>]]></description>
+      <enclosure url="https://github.com/hectormonte1/hq-agents-releases/releases/download/v1.1.0/HQ-Agents-1.1.0.zip" sparkle:edSignature="BYOHNMe+5asLDKU43c7bc0WrW9crq4txAxPb5N2Gfz+4bX4Vs0dnYAKlA+TDa94pq1YmEkNENCluM2s89uLODw==" length="1478425" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
