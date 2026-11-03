@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/hectormonte1/hq-agents-releases/main/appcast.xml</link>
     <language>es</language>
     <item>
+      <title>HQ Agents 1.1.1</title>
+      <pubDate>Tue, 03 Nov 2026 22:22:15 +0000</pubDate>
+      <sparkle:version>111</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>HQ Agents 1.1.1</p>]]></description>
+      <enclosure url="https://github.com/hectormonte1/hq-agents-releases/releases/download/v1.1.1/HQ-Agents-1.1.1.zip" sparkle:edSignature="f2XIWlyhTsW9fA5xlz2qtT6ZCD/iQnSvg/t/yJLRb9BCSCV+1lbUH8bydkfXKSLfE79czKE+BEts0/F6pwZTAQ==" length="1478407" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>HQ Agents 1.1.0</title>
       <pubDate>Tue, 03 Nov 2026 22:21:35 +0000</pubDate>
       <sparkle:version>110</sparkle:version>
