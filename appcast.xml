@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>HQ Agents</title>
+    <title>Socio</title>
     <link>https://raw.githubusercontent.com/hectormonte1/hq-agents-releases/main/appcast.xml</link>
     <language>es</language>
+    <item>
+      <title>Socio 1.3.5</title>
+      <pubDate>Sun, 08 Nov 2026 19:19:30 +0000</pubDate>
+      <sparkle:version>135</sparkle:version>
+      <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Socio 1.3.5 · por OtherBot Labs: ícono y marca nuevos.</p>]]></description>
+      <enclosure url="https://github.com/hectormonte1/hq-agents-releases/releases/download/v1.3.5/HQ-Agents-1.3.5.zip" sparkle:edSignature="IEJ4p5aqt/MtXKWaDpZd+fhQiboXiiP+FoXIyD2feawSnS3BJItTkUkEog2951lPSEg0x/e2IswzrnmECyaSCQ==" length="2183210" type="application/octet-stream"/>
+    </item>
     <item>
       <title>HQ Agents 1.2.0</title>
       <pubDate>Wed, 04 Nov 2026 16:42:19 +0000</pubDate>
