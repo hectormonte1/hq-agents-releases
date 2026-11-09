@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/hectormonte1/hq-agents-releases/main/appcast.xml</link>
     <language>es</language>
     <item>
+      <title>Socio 1.3.6</title>
+      <pubDate>Mon, 09 Nov 2026 19:25:47 +0000</pubDate>
+      <sparkle:version>136</sparkle:version>
+      <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Socio 1.3.6 · firmada y notarizada por Apple (Developer ID): se instala sin avisos de seguridad.</p>]]></description>
+      <enclosure url="https://github.com/hectormonte1/hq-agents-releases/releases/download/v1.3.6/HQ-Agents-1.3.6.zip" sparkle:edSignature="iJLtIhIwIf19yqEyukgWGRqSqzz9kqnYWStPgDXI6cZ+iji5HfwRElP6EGxOoAPS8n3KdVAgIMRZrWJEeuD0Aw==" length="2226822" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Socio 1.3.5</title>
       <pubDate>Sun, 08 Nov 2026 19:19:30 +0000</pubDate>
       <sparkle:version>135</sparkle:version>
